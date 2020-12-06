@@ -1,4 +1,4 @@
-library flutter_login;
+library flutter_login_empresarial;
 
 import 'dart:math';
 import 'package:flutter/cupertino.dart';
