@@ -1,7 +1,6 @@
 name: flutter_login_empresarial
 description: package flutter onde cria uma tela de login com requisição de 3 campos para Login.
 version: 1.0.0
-author: Vanderlei Cavassin<cavassin.vanderlei@gmail.com>
 homepage: https://github.com/cavassin12/FlutterLoginEmpresarial
 
 environment:
